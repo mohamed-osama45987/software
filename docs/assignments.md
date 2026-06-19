@@ -76,6 +76,8 @@ Mandatory module-level MCQ assessments. Try each question closed-book first; cli
 | -------------------- | ------------------------------------------------------------ | ------------ |
 | Module 1 — Frontend  | [Module 1 Assessment](1-frontend/assignment/assessment.md)   | 20 questions |
 | Module 2 — Fullstack | [Module 2 Assessment](2-full-stack/assignment/assessment.md) | 20 questions |
+| Module 3 — Backend | [Module 3 Assessment](3-backend/assignment/assessment.md) | 20 questions |
+| Module 4 — Devops | [Module 4 Assessment](4-devops/assignment/assessment.md) | 20 questions |
 
 ## How to use these
 
