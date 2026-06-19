@@ -15,7 +15,7 @@ The programme covers:
 
 - **Module 0** — JavaScript foundations (Promises, async/await)
 - **Module 2** — Full stack web development (React, AJAX, Firebase)
-- **Module 3** — Backend development (Express.js, SQL, Sequelize, Authentication)
+- **Module 3** — Backend development (Java, Spring Boot, PostgreSQL)
 - **Module 4** — Capstone (Testing, CI/CD)
 - **Algorithms** — Data structures and search algorithms
 - **React Native** — Mobile app development
