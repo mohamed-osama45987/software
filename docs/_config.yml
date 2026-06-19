@@ -1,10 +1,58 @@
-theme: jekyll-theme-primer
-title: Tamkeen Software Engineering
+title: Tamkeen Software Engineering         
 description: Software engineering curriculum
-markdown: kramdown
-kramdown:
-  input: GFM
+baseurl: "/software"                
+url: "https://mohamed-osama45987.github.io"
+
+repository: mohamed-osama45987/software
+github:
+  repository_url: https://github.com/mohamed-osama45987/software 
+
+markdown: CommonMarkGhPages
+commonmark:
+  options:
+    - UNSAFE
+    - FOOTNOTES
+  extensions:
+    - table
+    - strikethrough
+    - autolinkPAGES_REPO_NWO
+    - tasklist
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-github-metadata
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-default-layout
+
+liquid:
+  error_mode: warn
+  strict_variables: false
+  strict_filters: false
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+
+theme: jekyll-theme-primer
+
+keep_files:
+  - pagefind
+
 include:
   - .assets
+
 exclude:
-  - node_modules
+  - .git/
+  - .gitbook/
+  - .gitignore
+  - node_modules/
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - .jekyll-cache/
