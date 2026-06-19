@@ -44,3 +44,7 @@ The programme is divided into 4 modules and
 You may notice our lessons often reference official docs, guides and tutorials for the content we teach, for example with React and Firebase. We do this because the official docs are often the best explanations, and we supplement those explanations with our own expertise of what students at our levels are likely to understand.
 
 We hope this teaching style suits you and we are excited to teach you the best!
+
+## Assignments
+
+Every lesson has a companion assignment — a quiz, a set of coding tasks, or both — with hints you can reveal one at a time if you get stuck. See the **[Assignments](assignments.md)** page for the full list, organised by module.
