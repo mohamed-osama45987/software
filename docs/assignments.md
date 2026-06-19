@@ -4,7 +4,7 @@ Each lesson below has an assignment page with hints revealed on click. Try each 
 
 > **Submit your work on Skills Union →** <https://skillsu.com/member/assessment>
 
-## Module 0 — Foundations
+## Module 1 — Foundations
 
 | Lesson | Assignment | Format |
 |---|---|---|
@@ -76,6 +76,7 @@ Mandatory module-level MCQ assessments. Try each question closed-book first; cli
 | Module | Assessment | Length |
 |---|---|---|
 | Module 1 — Frontend | [Module 1 Assessment](1-frontend/assignment/assessment.md) | 20 questions |
+| Module 2 — Fullstack | [Module 2 Assessment](2-full-stack/assignment/assessment.md) | 20 questions |
 
 
 ## How to use these
