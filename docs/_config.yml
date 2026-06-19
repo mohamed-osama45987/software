@@ -1,4 +1,10 @@
 theme: jekyll-theme-primer
-exclude:
+title: Tamkeen Software Engineering
+description: Software engineering curriculum
+markdown: kramdown
+kramdown:
+  input: GFM
 include:
   - .assets
+exclude:
+  - node_modules
