@@ -68,6 +68,16 @@ Larger, multi-lesson builds. These existed before this assignments hub — linke
 | Carousell — Auth | [3.E.6](3-backend/3.e-exercises/3.e.6-carousell-auth.md) | 3.4 Authentication (companion to the new JWT assignment above) |
 | React Native App | [Exercise](react-native/exercise-react-native/1-exercise-rn-app.md) · [Solution](react-native/exercise-react-native/1-solution-rn-app.md) | RN.2 Components, RN.3 Navigation, RN.4 External Libraries |
 
+
+## Module assessments
+
+Mandatory module-level MCQ assessments. Try each question closed-book first; click **Show hint** for a nudge that points at the relevant lesson section without naming the answer.
+
+| Module | Assessment | Length |
+|---|---|---|
+| Module 1 — Frontend | [Module 1 Assessment](1-frontend/assignment/assessment.md) | 20 questions |
+
+
 ## How to use these
 
 Skim the lesson README first, then attempt the assignment closed-book to gauge recall. It's normal to look up syntax — these are not closed-book exams. When stuck, click **Show hint** under a question to reveal a pointer to the relevant lesson section; hints never name the correct option. Submit your work on [Skills Union](https://skillsu.com/member/assessment) per the assignment instructions.
