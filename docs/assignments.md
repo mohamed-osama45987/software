@@ -27,12 +27,12 @@ Each lesson below has an assignment page with hints revealed on click. Try each 
 | 3.3 — Spring Data JPA & PostgreSQL | [Lesson notes](3-backend/spring-data-jpa-postgresql/jpa-hibernate.md) · [Assignment](3-backend/assignment/springdatajpa.md) | ORM + database integration      |
 | 3.4 — Spring Security              | [Lesson notes](3-backend/springboot-security/security.md) · [Assignment](3-backend/assignment/spring-security.md)           | Authentication + access control |
 
-## Module 4 — Capstone
+## Module 4 — DevOps
 
-| Lesson                                    | Assignment                                                        | Format  |
-| ----------------------------------------- | ----------------------------------------------------------------- | ------- |
-| 4.1 — Testing                             | _coming soon_                                                     | —       |
-| 4.2 — Continuous Integration / Deployment | [Quiz](4-capstone/4.2-continuous-integration/assignments/quiz.md) | 11 MCQs |
+| Lesson                   | Assignment                                                                                        | Format   |
+| ------------------------ | ------------------------------------------------------------------------------------------------- | -------- |
+| 4.1 — DevOps Foundations | [Roadmap](4-devops/roadmaps/devops-roadmap.md)                                                    | overview |
+| 4.2 — Containers & CI/CD | [Roadmap](4-devops/roadmaps/containers-roadmap.md) · [Roadmap](4-devops/roadmaps/cicd-roadmap.md) | overview |
 
 ## Algorithms
 
@@ -76,8 +76,8 @@ Mandatory module-level MCQ assessments. Try each question closed-book first; cli
 | -------------------- | ------------------------------------------------------------ | ------------ |
 | Module 1 — Frontend  | [Module 1 Assessment](1-frontend/assignment/assessment.md)   | 20 questions |
 | Module 2 — Fullstack | [Module 2 Assessment](2-full-stack/assignment/assessment.md) | 20 questions |
-| Module 3 — Backend | [Module 3 Assessment](3-backend/assignment/assessment.md) | 20 questions |
-| Module 4 — Devops | [Module 4 Assessment](4-devops/assignment/assessment.md) | 20 questions |
+| Module 3 — Backend   | [Module 3 Assessment](3-backend/assignment/assessment.md)    | 20 questions |
+| Module 4 — Devops    | [Module 4 Assessment](4-devops/assignment/assessment.md)     | 20 questions |
 
 ## How to use these
 
