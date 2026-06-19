@@ -66,7 +66,7 @@ Larger, multi-lesson builds. These existed before this assignments hub — linke
 | Bigfoot — SQL M-M | [3.E.4](3-backend/3.e-exercises/3.e.4-bigfoot-sql-m-m.md) | 3.3 Sequelize M-M |
 | Carousell — Schema Design | [3.E.5](3-backend/3.e-exercises/3.e.5-carousell-schema-design.md) | 3.2 SQL Schema Design |
 | Carousell — Auth | [3.E.6](3-backend/3.e-exercises/3.e.6-carousell-auth.md) | 3.4 Authentication (companion to the new JWT assignment above) |
-| React Native App | [Exercise](react-native/exercise-react-native/1-exercise-rn-app.md) · [Solution](react-native/exercise-react-native/1-solution-rn-app.md) | RN.2 Components, RN.3 Navigation, RN.4 External Libraries (companion to the new Profile Card / Tab Nav assignments above) |
+| React Native App | [Exercise](react-native/exercise-react-native/1-exercise-rn-app.md) · [Solution](react-native/exercise-react-native/1-solution-rn-app.md) | RN.2 Components, RN.3 Navigation, RN.4 External Libraries |
 
 ## How to use these
 
